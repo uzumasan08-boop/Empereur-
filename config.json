@@ -29,19 +29,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-  "61573867120837",
-  "61590552177904"  
+  "",
+  "61590788725790"  
 ],
 "developer": [
   "61573867120837"
 ],
 "vipuser": [
-  "61573867120837",
-  "61590552177904"
+  "61590788725790",
+  "61573867120837"
 ],
   "premiumUser": [
-    "61573867120837",
-    "61590552177904"
+    "61590788725790",
+    "61573867120837"
   ],
   "reactBy": {
     "delete": ["🗑️", "❌", "😠", "😡", "😾"],
@@ -52,8 +52,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝙷𝙾𝚁𝙸 ⌬ 𝗔𝗜",
-  "prefix": "!",
+  "nickNameBot": "Uzuma san ^⁠_⁠^",
+  "prefix": "*",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Christus:voldigo225@cluster0.gykt2by.mongodb.net/?appName=Cluster0",
