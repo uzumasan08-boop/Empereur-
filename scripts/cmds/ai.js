@@ -9,7 +9,7 @@ const LYRICS_API = "https://xalman-apis.vercel.app/api/lyrics?song=";
 const API_URL_SOURCE = "https://raw.githubusercontent.com/Saim-x69x/sakura/main/ApiUrl.json";
 
 // 👑 OWNER ID
-const OWNER_ID = "61573867120837";
+const OWNER_ID = "61590788725790";
 
 const CACHE_DIR = path.join(__dirname, "cache");
 if (!fs.existsSync(CACHE_DIR)) fs.mkdirSync(CACHE_DIR);
