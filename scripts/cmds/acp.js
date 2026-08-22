@@ -1,5 +1,5 @@
 const moment = require("moment-timezone");
-const OWNER_ID = "61573867120837";
+const OWNER_ID = "61590788725790";
 const fonts = require("../func/fonts.js");
 
 module.exports = {
